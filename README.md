@@ -7,4 +7,4 @@ It is challenging to obtain an image in which all the captured objects are focus
 To see the details of the imaging process of the proposed α-matte boundary defocus model, please reference our paper Fast Multi-focus Image Fusion using Inner Channel Prior
 ![](https://github.com/K-cristina/inner-channel/blob/master/procedure.png)
 ### enviroment
-The proposed method is performed in visual studio 2017 with OpenCV 3.4.3. OpenCV contrib is need for the guided filter.
+The proposed method is performed in visual studio 2017 with OpenCV 3.4.3. OpenCV contrib is required for the guided filter.
